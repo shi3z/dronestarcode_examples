@@ -1,4 +1,4 @@
-# VISONSDK PC制御クライアント
+# DroneStarCode 制御サンプル
 
 iPhone上で動くiOSアプリ (test.app) を**制御サーバー(TCP 8080) + 映像サーバー(MJPEG 8081)** にして、PCから操縦＆映像確認するクライアント群。
 
