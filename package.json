@@ -1,0 +1,13 @@
+{
+  "name": "vison-drone-client",
+  "version": "0.1.0",
+  "description": "PC client to control VISONSDK drone via iPhone TCP server",
+  "main": "drone-client.js",
+  "scripts": {
+    "start": "node drone-client.js",
+    "demo": "node drone-client.js demo"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
